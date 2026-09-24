@@ -1,0 +1,26 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/tsofindavid/david.tsofin.com#readme",
+  "bugs": {
+    "url": "https://github.com/tsofindavid/david.tsofin.com/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsofindavid/david.tsofin.com.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "railway": "^3.11.0"
+  }
+}
