@@ -1,0 +1,13 @@
+site_name: David Tsofin
+docs_dir: docs
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle: { icon: material/brightness-7, name: Dark mode }
+    - scheme: slate
+      toggle: { icon: material/brightness-4, name: Light mode }
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
