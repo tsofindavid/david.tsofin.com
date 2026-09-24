@@ -1,5 +1,4 @@
 ---
-icon: hand-wave
 cover: >-
   https://moer.tel/cdn/shop/files/moertel_pixel_art_banner_highway.png?v=1691086755&width=1500
 coverY: 0
