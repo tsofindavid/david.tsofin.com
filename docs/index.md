@@ -93,4 +93,4 @@ English — Professional working proficiency | Slovak — B1 | Russian — Nativ
 
 ---
 
-*CV v1.0.9*
+*CV v0.0.1*
