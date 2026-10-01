@@ -76,4 +76,4 @@ English — Professional working proficiency | Slovak — B1 | Russian — Nativ
 
 ---
 
-*CV v0.0.1*
+*CV v0.0.2*
